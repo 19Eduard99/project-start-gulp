@@ -1,30 +1,3 @@
-## Структура проекта
-`project/
-│
-├── src/
-│   ├── assets/
-│   │   ├── images/
-│   │   │   ├── image1.jpg
-│   │   │   ├── image2.png
-│   │   │   └── icon.svg
-│   ├── scripts/
-│   │   ├── main.js
-│   ├── styles/
-│   │   ├── main.scss
-│   ├── templates/
-│   │   ├── components/
-│   │   │   ├── header.html
-│   │   │   ├── footer.html
-│   ├── index.html
-│
-├── dist/
-│   ├── (здесь будут появляться сгенерированные файлы)
-│
-├── gulpfile.js
-├── package.json
-└── node_modules/`
-
-
 # Установка
 
 1. Убедитесь, что у вас установлен Node.js и npm.
